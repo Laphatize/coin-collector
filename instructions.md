@@ -1,5 +1,7 @@
+# Coin Collector
+A fun little game where you collect as many coins as you coin in 7 seconds. It's made with python using pygame on pgzero.
 
-
+# Instructions: 
 ## Windows Users: <br>
 - Install Python 3 
 - Open up command prompt and run `-m pip install -U pip`
