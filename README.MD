@@ -43,5 +43,5 @@ TODO: <br>
 - Game Menue
 
 <h2> Screenshots </h2>
-<img src="https://imgur.com/EgzzZuO">
-<img src="https://imgur.com/C4CtfIC">
+<img src="https://i.imgur.com/EgzzZuO.png">
+<img src="https://i.imgur.com/C4CtfIC.png">
