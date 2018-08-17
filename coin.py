@@ -23,7 +23,7 @@ coin.pos = 200, 200
 def draw():
 
 	# the screen you see when you play
-	screen.fill("green") # background (Grass)
+	screen.fill("lightgreen") # background (Grass)
 	fox.draw() # the fox, thanks random person who made it
 	coin.draw() # the coin
 	screen.draw.text("Score: " + str(score), color="black", topleft=(10,10))
@@ -32,6 +32,7 @@ def draw():
 	# game over screen, rip
 	if game_over:
 		screen.fill("pink")
+		screen.draw.text("Times Up! :( ", topleft=(10,60), fontsize=60)
 		screen.draw.text("Final Score: " + str(score), color="black", topleft=(10,10), fontsize=60)
 
 def place_coin():
@@ -41,7 +42,6 @@ def place_coin():
 def time_up():
 	global game_over
 	game_over = True
-	clock.schedule(time_up, 7.0)
 	place_coin()
 
 def update():
@@ -71,5 +71,5 @@ def update():
 
 
 
-
+clock.schedule(time_up, 7.0)
 place_coin()
