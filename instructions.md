@@ -30,7 +30,7 @@
 - I'm not actually sure how to run it on linux, I'm guessing it would be similar to the instructiosn that Mac users have to follow.
 
 
-DEVELOPERS: <br>
+## Developers: <br>
 Any variables that are in CAPS means, that you shouldn't mess around with those variables.
 
 I've added comments where it's needed, so please read them.
