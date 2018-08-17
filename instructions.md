@@ -1,9 +1,6 @@
-= Laphatize (C) 2018-2019 = 
-= Instructions to run Coin Collector = 
-= DEVELOPERS SCROLL ALL THE WAY DOWN BEFORE MODIFYING CODE =
-= PLEASE LET ME KNOW IF YOU SEE AN ERROR, TY! =
 
-Windows Users:
+
+Windows Users: <br>
 - Install Python 3 
 - Open up command prompt and run "-m pip install -U pip"
 - Run "pip install pygame" in the same window.
@@ -14,7 +11,7 @@ Windows Users:
 
 
 
-Mac Users:
+Mac Users: <br>
 - Install Homebrew if you haven't already
 	- Open up terminal and run: "ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
@@ -29,11 +26,11 @@ Mac Users:
 
 
 
-Linux Users:
+Linux Users: <br>
 - I'm not actually sure how to run it on linux, I'm guessing it would be similar to the instructiosn that Mac users have to follow.
 
 
-DEVELOPERS:
+DEVELOPERS: <br>
 Any variables that are in CAPS means, that you shouldn't mess around with those variables.
 
 I've added comments where it's needed, so please read them.
