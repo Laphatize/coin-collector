@@ -31,8 +31,6 @@
 
 
 ## Developers: <br>
-Any variables that are in CAPS means, that you shouldn't mess around with those variables.
-
-I've added comments where it's needed, so please read them.
-
-Please give credit :)
+Any variables that are in CAPS means, that you shouldn't mess around with those variables. <br>
+I've added comments where it's needed, so please read them.<br>
+Please give credit :)<br>
