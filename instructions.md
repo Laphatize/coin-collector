@@ -13,7 +13,7 @@ Windows Users: <br>
 
 Mac Users: <br>
 - Install Homebrew if you haven't already
-	- Open up terminal and run: "ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	- Open up terminal and run: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
 
 
 - Then run "brew install python3" in a terminal window.
