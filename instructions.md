@@ -1,6 +1,6 @@
 
 
-Windows Users: <br>
+##Windows Users: <br>
 - Install Python 3 
 - Open up command prompt and run `-m pip install -U pip`
 - Run `pip install pygame` in the same window.
@@ -11,7 +11,7 @@ Windows Users: <br>
 
 
 
-Mac Users: <br>
+##Mac Users: <br>
 - Install Homebrew if you haven't already
 	- Open up terminal and run: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
 
@@ -26,7 +26,7 @@ Mac Users: <br>
 
 
 
-Linux Users: <br>
+##Linux Users: <br>
 - I'm not actually sure how to run it on linux, I'm guessing it would be similar to the instructiosn that Mac users have to follow.
 
 
