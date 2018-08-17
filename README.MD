@@ -42,4 +42,6 @@ TODO: <br>
 - ~~Score Counter~~
 - Game Menue
 
-! (https://imgur.com/EgzzZuO)
+<h2> Screenshots </h2>
+<img src="https://imgur.com/EgzzZuO">
+<img src="https://imgur.com/C4CtfIC">
