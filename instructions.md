@@ -1,6 +1,3 @@
-# Coin Collector
-A fun little game where you collect as many coins as you coin in 7 seconds. It's made with python using pygame on pgzero.
-
 # Instructions: 
 ## Windows Users: <br>
 - Install Python 3 
@@ -36,3 +33,11 @@ A fun little game where you collect as many coins as you coin in 7 seconds. It's
 Any variables that are in CAPS means, that you shouldn't mess around with those variables. <br>
 I've added comments where it's needed, so please read them.<br>
 Please give credit :)<br>
+
+# Other
+
+TODO: <br>
+- ~~Timer~~
+- ~~Game over screen~~
+- ~~Score Counter~~
+- Game Menue
