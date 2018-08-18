@@ -41,6 +41,7 @@ TODO: <br>
 - ~~Game over screen~~
 - ~~Score Counter~~
 - Game Menue
+- Sound
 
 <h2> Screenshots </h2>
 <img src="https://i.imgur.com/EgzzZuO.png">
