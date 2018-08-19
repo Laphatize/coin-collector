@@ -1,4 +1,5 @@
 # Instructions: 
+[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)]
 ## Windows Users: <br>
 - Install Python 3 
 - Open up command prompt and run `-m pip install -U pip`
