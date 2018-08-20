@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/laphatize/coin-collector.svg)](http://hits.dwyl.io/laphatize/coin-collector)
+
 # Instructions: 
 ## Windows Users: <br>
 - Install Python 3 
